@@ -1,3 +1,7 @@
 alias ll='ls -la'
 alias xampp='sudo /opt/lampp/manager-linux-x64.run'
 alias gimmie='sudo pacman -S'
+alias ff='firefox &'
+alias xampp='sudo /opt/lampp/manager-linux-x64.run'
+alias studio='studio.sh &'
+alias dropbox='python /home/blacc/.dropbox-dist/dropbox.py'
